@@ -1,14 +1,12 @@
-title: Your awesome title
-author:
-  name: GitHub User
-  email: your-email@domain.com
+title: Zhaoqi Zhu 
+#author:
+  #name: Zhaoqi Zhu
+  #email: zzhu19@sas.upenn.edu
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
-description: >
-  Write an awesome description for your new site here. You can edit this line
-  in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+# description: >
+
 
 # Build settings
 
@@ -23,6 +21,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-katex
 
 # Theme-specific settings
 
@@ -70,8 +69,7 @@ minima:
   #  - { platform: x,              user_url: "https://x.com/jekyllrb" }
   #  - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
 
-plugins:
-  - jekyll-katex
+
 kramdown:
   math_engine: katex
   
