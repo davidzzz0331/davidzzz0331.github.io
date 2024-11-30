@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Notes for Math 603"
+excerpt: "This is a more-or-less polished notes for the course Math 603, taught in Spring 2024 by Professor Florian Pop."
 collection: portfolio
 ---
 
