@@ -10,3 +10,4 @@ end
 
 gem 'github-pages'
 gem 'tzinfo-data'
+gem "jekyll-redirect-from"

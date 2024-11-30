@@ -8,6 +8,5 @@ date: 2024-09-27
 location: "UPenn"
 ---
 
-[Notes for the Talk](assets\pdf\Equivariant Homotopy Theory Talk.pdf)
-
+[Notes for the Talk](/assets/pdf/Equivariant Stable Homotopy Theory Notes (1).pdf)
 

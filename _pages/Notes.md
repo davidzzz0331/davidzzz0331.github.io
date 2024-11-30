@@ -17,7 +17,7 @@ Welcome to my collection of notes and writeups! Below you will find a list of to
 
 *This is a in-progress set of notes I have taken while learning equivariant (stable) homotopy theory from various sources.*
 
-[Notes](assets\pdf\Equivariant Stable Homotopy Theory Notes (1).pdf)
+[Notes](/assets/pdf/Equivariant Stable Homotopy Theory Notes (1).pdf)
 
 ---
 
@@ -25,7 +25,7 @@ Welcome to my collection of notes and writeups! Below you will find a list of to
 
 *This is a in-progress set of notes I have taken while learning higher K-theory following the original papers and Weibel.*
 
-[Notes](assets\pdf\HAK I&II.pdf)
+[Notes](/assets/pdf/HAK I&II.pdf)
 
 ---
 
@@ -33,7 +33,7 @@ Welcome to my collection of notes and writeups! Below you will find a list of to
 
 *This is a more-or-less polished set of notes for math 603, taught by Prof. Florian Pop in Spring 2024 at UPenn.*
 
-[Notes](assets\pdf\603.pdf)
+[Notes](/assets/pdf/603.pdf)
 
 ---
 
@@ -41,7 +41,7 @@ Welcome to my collection of notes and writeups! Below you will find a list of to
 
 *This is the set of notes I prepared on Serre spectral sequences for Math 601, taught by Prof. Mona Merling in Spring 2024 at UPenn.*
 
-[Notes](assets\pdf\How to compute Pi_4(S^3).pdf)
+[Notes](/assets/pdf/How to compute Pi_4(S^3).pdf)
 
 ---
 
@@ -49,7 +49,7 @@ Welcome to my collection of notes and writeups! Below you will find a list of to
 
 *This is an (ancient) set of notes I wrote while learning Morse Theory (in order to understand Floer homology).*
 
-[Notes](assets\pdf\Morse_Theory.pdf)
+[Notes](/assets/pdf/Morse_Theory.pdf)
 
 ---
 
