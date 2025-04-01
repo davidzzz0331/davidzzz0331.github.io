@@ -17,7 +17,7 @@ Welcome to my collection of notes and writeups! Below you will find a list of to
 
 *This is a in-progress set of notes I have taken while learning equivariant (stable) homotopy theory from various sources.*
 
-[Notes](/assets/pdf/Equivariant Stable Homotopy Theory Notes (1).pdf)
+[Notes](/assets/pdf/Equivariant Stable Homotopy Theory Notes.pdf)
 
 ---
 
