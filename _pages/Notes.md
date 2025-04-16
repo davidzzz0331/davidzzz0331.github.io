@@ -15,9 +15,9 @@ Welcome to my collection of notes and writeups! Below you will find a list of to
 
 ### 1. **Notes for Equivariant (stable) Homotopy Theory**
 
-*This is a more-or-less polished set of notes for equivariant stable homotopy theory, which became my Master's thesis. *
+*This is a more-or-less polished set of notes for equivariant homotopy theory, which became my Master's thesis.*
 
-[Notes](assets/pdf/Equivariant Stable Homotopy Theory.pdf)
+[Notes](assets/pdf/ESH.pdf)
 
 ---
 
