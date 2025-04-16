@@ -17,7 +17,7 @@ Welcome to my collection of notes and writeups! Below you will find a list of to
 
 *This is a more-or-less polished set of notes for equivariant homotopy theory, which became my Master's thesis.*
 
-[Notes](assets/pdf/ESH.pdf)
+[Notes](/assets/pdf/ESH.pdf)
 
 ---
 
