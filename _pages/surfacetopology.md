@@ -8,7 +8,7 @@ author_profile: false
 
 ## Overview
 
-This is a seminar devoted to understand McMullen’s paper "[From Dynamics on Surfaces to Rational Points on Curves](/assets/pdf/fermat.pdf)," which combines techniques from geometric topology, dynamics and complex algebraic geometry to reinterpret celebrated results in number theory. We will go through basics in surface topology, including mapping class group theory, monodromy representations, Nielsen-Thurston classification and so on. At the end, we want to relate McMullen’s result back to algebra, which is Faltings’ theorem on finiteness of rational points on genus > 1 curves. A corollary of this theorem is a weaker form of Fermat’s Last Theorem. The detailed syllabus is [here](/assets/pdf/surfacesyllabus.pdf).    
+This is a seminar devoted to understanding McMullen’s paper "[From Dynamics on Surfaces to Rational Points on Curves](/assets/pdf/fermat.pdf)," which combines techniques from geometric topology, dynamics and complex algebraic geometry to reinterpret celebrated results in number theory. We will go through basics in surface topology, including mapping class group theory, monodromy representations, Nielsen-Thurston classification and so on. At the end, we want to relate McMullen’s result back to algebra, which is Faltings’ theorem on finiteness of rational points on genus > 1 curves. A corollary of this theorem is a weaker form of Fermat’s Last Theorem. The detailed syllabus is [here](/assets/pdf/surfacesyllabus.pdf).    
 
 ---
 
