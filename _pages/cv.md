@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* M.A. in Mathematics, University of Pennsylvania, 2023 - Present
+* PhD. in Mathematics, University of Pennsylvania, 2025 - Current
+* M.A. in Mathematics, University of Pennsylvania, 2023 - 2025
 * B.A. in Mathematics, UC Berkeley, 2019-2023
 
 Awards
@@ -42,14 +43,6 @@ Teaching experience
   * UC Berkeley
 
 
-
-Work experience
-======
-* Summer 2023: Trading Summer Intern 
-  * Lions Financial, NYC
-
-* Summer 2020: Summer Intern
-  * PwC, Suzhou
 
 Languages
 ======

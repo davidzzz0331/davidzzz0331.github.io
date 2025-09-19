@@ -22,7 +22,13 @@ main:
 
   - title: "Notes"
     url: /notes/
-        
+  
+  - title: "Surface Topology Seminar"
+    url: /surfacetopology/
+
+
+
+
   # - title: "Blog Posts"
   #   url: /year-archive/
     
