@@ -33,14 +33,14 @@ This is a seminar devoted to understanding McMullen’s paper "[From Dynamics on
 | Date   | Topic                                                   | Speaker       | Notes | Recording |
 |--------|---------------------------------------------------------|---------------|-------|-----------|
 | Sep 12 | Lecture 1: Basic surface topology                       | Fangji Liu    |    [Here](/assets/surfacetopology/1surface.pdf)   |     [Video](https://youtu.be/NAQRa--xXXQ?si=M0cL71LSRRVgEF7x)      |
-| Sep 19 | Lecture 2: Mapping class groups                         | David Zhu     |       |     [Here](https://youtu.be/HmjxVVI9T7Y)      |
-| Sep 26 | Lecture 3: Dehn twists                                  | Jacob Monzel  |       |           |
-| Oct 3  | Lecture 4: Generators and relations of mapping class groups |               |       |           |
+| Sep 19 | Lecture 2: Mapping class groups                         | David Zhu     |       |     [Video](https://youtu.be/HmjxVVI9T7Y)      |
+| Sep 26 | Lecture 3: Dehn twists                                  | Jacob Monzel  |       |      [Video](https://youtu.be/qBmBi5SHS9o?si=W68obr4wiKqH1cOD)     |
+| Oct 3  | Lecture 4: Generators and relations of mapping class groups |     Fangji Liu          |       |           |
 | Oct 10 | **Fall Break, no class!**                                   |               |       |           |
-| Oct 17 | Lecture 5: The symplectic representation                |               |       |           |
+| Oct 17 | Lecture 5: The symplectic representation                |    David Zhu           |       |           |
 | Oct 24 | Lecture 6: The 84(g − 1) theorem                        |               |       |           |
-| Oct 31 | Lecture 7: Teichmüller space and the moduli space of complex curves |          |       |           |
-| Nov 7  | Lecture 8: Nielsen–Thurston classification              |               |       |           |
+| Oct 31 | Lecture 7: Teichmüller space and the moduli space of complex curves |  Tom Han        |       |           |
+| Nov 7  | Lecture 8: Nielsen–Thurston classification              |      Ellis Buckminster         |       |           |
 | Nov 14 | Lecture 9: The monodromy determination theorem and McMullen’s theorem |        |       |           |
 | Nov 21 | Lecture 10: Faltings’ theorem                           |               |       |           |
 | Nov 28 | **Thanksgiving, no class!**                                 |               |       |           |
