@@ -22,7 +22,7 @@ This is a seminar devoted to understanding McMullen’s paper "[From Dynamics on
 
 **Organizers:** David Zhu (zzhu19 at sas.upenn.edu) and Fangji Liu (fjliu at sas.upenn.edu)  
 **Time:** Fridays, 1–2:00 PM  
-**Location:**  Nomadic 
+**Location:**  Nomadic  
 **Zoom Link:**  [Join here](https://upenn.zoom.us/j/6497776520)  
 **Sign-up Sheet:** [Here](https://docs.google.com/spreadsheets/d/1ZUYrov0kOSz0A-sLQ45FFZDZwaqFp89eaaIoWPZfps4/edit?usp=sharing)    
 
