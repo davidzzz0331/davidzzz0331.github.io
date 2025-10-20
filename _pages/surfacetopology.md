@@ -33,11 +33,11 @@ This is a seminar devoted to understanding McMullen’s paper "[From Dynamics on
 | Date   | Topic                                                   | Speaker       | Notes | Recording |
 |--------|---------------------------------------------------------|---------------|-------|-----------|
 | Sep 12 | Lecture 1: Basic surface topology                       | Fangji Liu    |    [Here](/assets/surfacetopology/1surface.pdf)   |     [Video](https://youtu.be/NAQRa--xXXQ?si=M0cL71LSRRVgEF7x)      |
-| Sep 19 | Lecture 2: Mapping class groups                         | David Zhu     |       |     [Video](https://youtu.be/HmjxVVI9T7Y)      |
+| Sep 19 | Lecture 2: Mapping class groups                         | David Zhu     |    [Here](/assets/surfacetopology/2surface.pdf)   |     [Video](https://youtu.be/HmjxVVI9T7Y)      |
 | Sep 26 | Lecture 3: Dehn twists                                  | Jacob Monzel  |    [Here](/assets/surfacetopology/3surface.pdf)   |      [Video](https://youtu.be/qBmBi5SHS9o?si=W68obr4wiKqH1cOD)     |
 | Oct 3  | Lecture 4: Generators and relations of mapping class groups |     Fangji Liu          |   [Here](/assets/surfacetopology/4surface.pdf)    |     [Video](https://youtu.be/ZU00orJPDCU?si=TAgQUNWVsl8aK_a_)      |
 | Oct 10 | **Fall Break, no class!**                                   |               |       |           |
-| Oct 17 | Lecture 5: The symplectic representation                |    David Zhu           |       |     [Video](https://youtu.be/TAEpoutuglk)     |
+| Oct 17 | Lecture 5: The symplectic representation                |    David Zhu           |   [Here](/assets/surfacetopology/5surface.pdf)    |     [Video](https://youtu.be/TAEpoutuglk)     |
 | Oct 24 | **No class!**                                   |               |       |           |
 | Oct 31 | Lecture 6: The 84(g − 1) theorem                        |      Zhengyu (Byron) Zou         |       |           |
 | Nov 7 | Lecture 7: Teichmüller space and the moduli space of complex curves |  Tom Han        |       |           |
