@@ -39,7 +39,7 @@ This is a seminar devoted to understanding McMullen’s paper "[From Dynamics on
 | Oct 10 | **Fall Break, no class!**                                   |               |       |           |
 | Oct 17 | Lecture 5: The symplectic representation                |    David Zhu           |   [Here](/assets/surfacetopology/5surface.pdf)    |     [Video](https://youtu.be/TAEpoutuglk)     |
 | Oct 24 | **No class!**                                   |               |       |           |
-| Oct 31 | Lecture 6: The 84(g − 1) theorem                        |      Zhengyu (Byron) Zou         |       |     [Video](https://youtu.be/3L9wO7p1gLI)     |
+| Oct 31 | Lecture 6: The 84(g − 1) theorem                        |      Zhengyu (Byron) Zou         |    [Here](/assets/surfacetopology/6surface.pdf)    |     [Video](https://youtu.be/3L9wO7p1gLI)     |
 | Nov 7 | Lecture 7: Teichmüller space and the moduli space of complex curves |  Tom Han        |  [Here](/assets/surfacetopology/7surface.pdf)     |    [Video](https://youtu.be/-wfRQVuVjCE)      |
 | Nov 14  | Lecture 8: Nielsen–Thurston classification              |      Ellis Buckminster         |       |           |
 | Nov 21 | Lecture 9: The monodromy determination theorem and McMullen’s theorem |  Albert Yang      |       |           |
