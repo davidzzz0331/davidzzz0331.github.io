@@ -42,7 +42,7 @@ This is a seminar devoted to understanding McMullen’s paper "[From Dynamics on
 | Oct 31 | Lecture 6: The 84(g − 1) theorem                        |      Zhengyu (Byron) Zou         |    [Here](/assets/surfacetopology/6surface.pdf)    |     [Video](https://youtu.be/3L9wO7p1gLI)     |
 | Nov 7 | Lecture 7: Teichmüller space and the moduli space of complex curves |  Tom Han        |  [Here](/assets/surfacetopology/7surface.pdf)     |    [Video](https://youtu.be/-wfRQVuVjCE)      |
 | Nov 14  | Lecture 8: Nielsen–Thurston classification              |      Ellis Buckminster         |       |     [Video](https://youtu.be/GMVR1Rrai1s)      |
-| Nov 21 | Lecture 9: The monodromy determination theorem and McMullen’s theorem |  Albert Yang      |       |           |
+| Nov 21 | Lecture 9: The monodromy determination theorem and McMullen’s theorem |  Albert Yang      |   [Here](/assets/surfacetopology/9surface.pdf)    |    [Video](https://youtu.be/0BUDlAYPJBM)       |
 | Nov 28 | **Thanksgiving, no class!**                                 |               |       |           |
 | Dec 5 | Lecture 10: Faltings’ theorem                           |       Tom Han        |       |           |
 
