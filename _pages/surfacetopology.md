@@ -44,7 +44,7 @@ This is a seminar devoted to understanding McMullen’s paper "[From Dynamics on
 | Nov 14  | Lecture 8: Nielsen–Thurston classification              |      Ellis Buckminster         |       |     [Video](https://youtu.be/GMVR1Rrai1s)      |
 | Nov 21 | Lecture 9: The monodromy determination theorem and McMullen’s theorem |  Albert Yang      |   [Here](/assets/surfacetopology/9surface.pdf)    |    [Video](https://youtu.be/0BUDlAYPJBM)       |
 | Nov 28 | **Thanksgiving, no class!**                                 |               |       |           |
-| Dec 5 | Lecture 10: Faltings’ theorem                           |       Tom Han        |  [Video](https://youtu.be/ih5NeaCAjXw)     |           |
+| Dec 5 | Lecture 10: Faltings’ theorem                           |       Tom Han        |       |[Video](https://youtu.be/ih5NeaCAjXw)           |
 
 
 
