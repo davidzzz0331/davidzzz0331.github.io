@@ -13,7 +13,19 @@ Welcome to my collection of notes and writeups! Below you will find a list of to
 ---
 
 
-### 1. **Notes for Equivariant (stable) Homotopy Theory**
+
+
+### 1. **Notes on Serre Subcategory**
+
+*An example of a Serre subcategory not closed under tensor product.*
+
+[Notes](/assets/pdf/Serre Subcategory.pdf)
+
+---
+
+
+
+### 2. **Notes for Equivariant (stable) Homotopy Theory**
 
 *This is a more-or-less polished set of notes for equivariant homotopy theory, which became my Master's thesis.*
 
@@ -21,7 +33,7 @@ Welcome to my collection of notes and writeups! Below you will find a list of to
 
 ---
 
-### 2. **Notes for Algebraic K-theory**
+### 3. **Notes for Algebraic K-theory**
 
 *This is a in-progress set of notes I have taken while learning higher K-theory following the original papers and Weibel.*
 
@@ -29,7 +41,7 @@ Welcome to my collection of notes and writeups! Below you will find a list of to
 
 ---
 
-### 3. **Course Notes on commutative algebra**
+### 4. **Course Notes on commutative algebra**
 
 *This is a more-or-less polished set of notes for math 603, taught by Prof. Florian Pop in Spring 2024 at UPenn.*
 
@@ -37,19 +49,11 @@ Welcome to my collection of notes and writeups! Below you will find a list of to
 
 ---
 
-### 4. **Short Notes on Serre Spectral Sequences and pi_4(S^3)**
+### 5. **Short Notes on Serre Spectral Sequences and pi_4(S^3)**
 
 *This is the set of notes I prepared on Serre spectral sequences for Math 601, taught by Prof. Mona Merling in Spring 2024 at UPenn.*
 
 [Notes](/assets/pdf/How to compute Pi_4(S^3).pdf)
-
----
-
-### 6. **Notes on Morse Theory**
-
-*This is an (ancient) set of notes I wrote while learning Morse Theory (in order to understand Floer homology).*
-
-[Notes](/assets/pdf/Morse_Theory.pdf)
 
 ---
 
